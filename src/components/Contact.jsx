@@ -70,7 +70,7 @@ const Contact = () => {
     >
       <motion.div
         variants={slideIn("left", "tween", 0.2, 1)}
-        className="flex-1 bg-black p-10"
+        className="flex-[1.3] bg-black p-10"
       >
         <p className={`${styles.sectionSubText} bg-black text-white`}>
           Send me a Message
@@ -132,7 +132,7 @@ const Contact = () => {
 
       <motion.div
         variants={slideIn("right", "tween", 0.2, 1)}
-        className="xl:flex-1 xl:h-aut relative"
+        className="xl:flex-1 xl:h-aut relative bg-blue-300"
       >
         <div className=" md:h-[400px] md:w-[400px] h-[220px] w-[180px] relative">
           <div className="border-b-[6px] border-green-700 absolute md:h-[400px] md:w-[400px] h-[240px] w-[280px] bg-[#dddddd] xl:top-[200px] xl:left-[-55px] md:top-[120px] md:left-[80%] sm:top-[-10px] sm:left-[70%] top-[2px] left-[40%] z-20">

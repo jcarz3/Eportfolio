@@ -6,8 +6,8 @@ import {
   mongodb,
   figma,
   meta,
-  jobit,
   eportfolio,
+  branchVisit,
 } from "../assets";
 
 export const navLinks = [
@@ -119,7 +119,7 @@ const projects = [
         color: "blue-text-gradient",
       },
     ],
-    image: jobit,
+    image: branchVisit,
     source_code_link: "https://github.com/",
   },
   {
