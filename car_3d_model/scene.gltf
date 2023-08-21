@@ -1,0 +1,593 @@
+{
+  "accessors": [
+    {
+      "bufferView": 2,
+      "componentType": 5126,
+      "count": 19777,
+      "max": [
+        2.5666019916534424,
+        3.0328855514526367,
+        2.7923994064331055
+      ],
+      "min": [
+        -1.9439067840576172,
+        0.00651289988309145,
+        -2.7013964653015137
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 237324,
+      "componentType": 5126,
+      "count": 19777,
+      "max": [
+        0.999984860420227,
+        1.0,
+        0.999984860420227
+      ],
+      "min": [
+        -0.9999848008155823,
+        -1.0,
+        -0.9999710917472839
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "componentType": 5126,
+      "count": 19777,
+      "max": [
+        0.991878867149353,
+        1.9865198135375977
+      ],
+      "min": [
+        0.007808513939380646,
+        1.0136533975601196
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "componentType": 5125,
+      "count": 59613,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 474648,
+      "componentType": 5126,
+      "count": 6623,
+      "max": [
+        2.6353602409362793,
+        2.4299418926239014,
+        2.6980369091033936
+      ],
+      "min": [
+        -1.4114314317703247,
+        0.33460429310798645,
+        -2.5669708251953125
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 554124,
+      "componentType": 5126,
+      "count": 6623,
+      "max": [
+        0.9998308420181274,
+        1.0,
+        0.9998416304588318
+      ],
+      "min": [
+        -0.9999251365661621,
+        -1.0,
+        -0.9998696446418762
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 158216,
+      "componentType": 5126,
+      "count": 6623,
+      "max": [
+        0.9878450036048889,
+        1.9920883178710938
+      ],
+      "min": [
+        0.007910061627626419,
+        1.0079094171524048
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 238452,
+      "componentType": 5125,
+      "count": 19320,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 633600,
+      "componentType": 5126,
+      "count": 9711,
+      "max": [
+        1.7319830656051636,
+        3.0349531173706055,
+        2.669847249984741
+      ],
+      "min": [
+        -1.4009052515029907,
+        -0.005264868028461933,
+        -2.425586223602295
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 750132,
+      "componentType": 5126,
+      "count": 9711,
+      "max": [
+        0.9999885559082031,
+        0.9998587965965271,
+        0.9999854564666748
+      ],
+      "min": [
+        -0.9999886155128479,
+        -0.9999704957008362,
+        -0.9999971985816956
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 211200,
+      "componentType": 5126,
+      "count": 9711,
+      "max": [
+        0.9917758107185364,
+        1.991729974746704
+      ],
+      "min": [
+        0.007812565192580223,
+        1.0078076124191284
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 315732,
+      "componentType": 5125,
+      "count": 35187,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 866664,
+      "componentType": 5126,
+      "count": 342,
+      "max": [
+        2.430654287338257,
+        2.3040921688079834,
+        1.1146163940429688
+      ],
+      "min": [
+        -1.2480403184890747,
+        1.4560962915420532,
+        -2.4443047046661377
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 870768,
+      "componentType": 5126,
+      "count": 342,
+      "max": [
+        0.986952543258667,
+        0.9827113747596741,
+        0.9914964437484741
+      ],
+      "min": [
+        -0.9949083924293518,
+        -0.6716281771659851,
+        -0.9876636266708374
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 288888,
+      "componentType": 5126,
+      "count": 342,
+      "max": [
+        0.9916057586669922,
+        1.791316032409668
+      ],
+      "min": [
+        0.007811306975781918,
+        1.0078102350234985
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 456480,
+      "componentType": 5125,
+      "count": 918,
+      "type": "SCALAR"
+    }
+  ],
+  "asset": {
+    "extras": {
+      "author": "FERtyn_12 (https://sketchfab.com/olezhka.ovchinnikov.1982)",
+      "license": "CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)",
+      "source": "https://sketchfab.com/3d-models/niva-gameready-3d-model-1fd49a48722d4b57bc0ecd3ac6d2947f",
+      "title": "Niva Gameready 3D Model"
+    },
+    "generator": "Sketchfab-15.32.0",
+    "version": "2.0"
+  },
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteLength": 460152,
+      "name": "floatBufferViews",
+      "target": 34963
+    },
+    {
+      "buffer": 0,
+      "byteLength": 291624,
+      "byteOffset": 460152,
+      "byteStride": 8,
+      "name": "floatBufferViews",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 874872,
+      "byteOffset": 751776,
+      "byteStride": 12,
+      "name": "floatBufferViews",
+      "target": 34962
+    }
+  ],
+  "buffers": [
+    {
+      "byteLength": 1626648,
+      "uri": "scene.bin"
+    }
+  ],
+  "images": [
+    {
+      "uri": "textures/Niva_Part_1_baseColor.jpeg"
+    },
+    {
+      "uri": "textures/Niva_Part_3_baseColor.jpeg"
+    },
+    {
+      "uri": "textures/Niva_Part_2_baseColor.jpeg"
+    }
+  ],
+  "materials": [
+    {
+      "doubleSided": true,
+      "name": "Niva_Part_1",
+      "pbrMetallicRoughness": {
+        "baseColorTexture": {
+          "index": 0
+        },
+        "metallicFactor": 0.0,
+        "roughnessFactor": 0.9577051494623774
+      }
+    },
+    {
+      "doubleSided": true,
+      "name": "Niva_Part_3",
+      "pbrMetallicRoughness": {
+        "baseColorTexture": {
+          "index": 1
+        },
+        "metallicFactor": 0.0,
+        "roughnessFactor": 0.9577051494623774
+      }
+    },
+    {
+      "doubleSided": true,
+      "name": "Niva_Part_2",
+      "pbrMetallicRoughness": {
+        "baseColorTexture": {
+          "index": 2
+        },
+        "metallicFactor": 0.0,
+        "roughnessFactor": 0.9577051494623774
+      }
+    },
+    {
+      "alphaMode": "BLEND",
+      "doubleSided": true,
+      "name": "Niva_Part_2_Glass",
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          1.0,
+          1.0,
+          1.0,
+          0.028952469188477523
+        ],
+        "baseColorTexture": {
+          "index": 2
+        },
+        "metallicFactor": 0.0,
+        "roughnessFactor": 0.9577051494623774
+      }
+    }
+  ],
+  "meshes": [
+    {
+      "name": "desirefx.me_001_Niva_Part_1_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 1,
+            "POSITION": 0,
+            "TEXCOORD_0": 2
+          },
+          "indices": 3,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "desirefx.me_002_Niva_Part_3_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 5,
+            "POSITION": 4,
+            "TEXCOORD_0": 6
+          },
+          "indices": 7,
+          "material": 1,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "desirefx.me_003_Niva_Part_2_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 9,
+            "POSITION": 8,
+            "TEXCOORD_0": 10
+          },
+          "indices": 11,
+          "material": 2,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "desirefx.me_004_Niva_Part_2_Glass_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 13,
+            "POSITION": 12,
+            "TEXCOORD_0": 14
+          },
+          "indices": 15,
+          "material": 3,
+          "mode": 4
+        }
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "children": [
+        1
+      ],
+      "matrix": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        2.220446049250313e-16,
+        -1.0,
+        0.0,
+        0.0,
+        1.0,
+        2.220446049250313e-16,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "name": "Sketchfab_model"
+    },
+    {
+      "children": [
+        2
+      ],
+      "matrix": [
+        0.009999999776482582,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.009999999776482582,
+        0.0,
+        0.0,
+        -0.009999999776482582,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "name": "Niva Gameready 3D Model.fbx"
+    },
+    {
+      "children": [
+        3,
+        5,
+        7,
+        9
+      ],
+      "name": "RootNode"
+    },
+    {
+      "children": [
+        4
+      ],
+      "matrix": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.999999999999999,
+        4.371138828673792e-08,
+        0.0,
+        0.0,
+        -4.371138828673792e-08,
+        0.999999999999999,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "name": "desirefx.me_001"
+    },
+    {
+      "mesh": 0,
+      "name": "desirefx.me_001_Niva_Part_1_0"
+    },
+    {
+      "children": [
+        6
+      ],
+      "matrix": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.999999999999999,
+        4.371138828673792e-08,
+        0.0,
+        0.0,
+        -4.371138828673792e-08,
+        0.999999999999999,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "name": "desirefx.me_002"
+    },
+    {
+      "mesh": 1,
+      "name": "desirefx.me_002_Niva_Part_3_0"
+    },
+    {
+      "children": [
+        8
+      ],
+      "matrix": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.999999999999999,
+        4.371138828673792e-08,
+        0.0,
+        0.0,
+        -4.371138828673792e-08,
+        0.999999999999999,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "name": "desirefx.me_003"
+    },
+    {
+      "mesh": 2,
+      "name": "desirefx.me_003_Niva_Part_2_0"
+    },
+    {
+      "children": [
+        10
+      ],
+      "matrix": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.999999999999999,
+        4.371138828673792e-08,
+        0.0,
+        0.0,
+        -4.371138828673792e-08,
+        0.999999999999999,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "name": "desirefx.me_004"
+    },
+    {
+      "mesh": 3,
+      "name": "desirefx.me_004_Niva_Part_2_Glass_0"
+    }
+  ],
+  "samplers": [
+    {
+      "magFilter": 9729,
+      "minFilter": 9987,
+      "wrapS": 10497,
+      "wrapT": 10497
+    }
+  ],
+  "scene": 0,
+  "scenes": [
+    {
+      "name": "Sketchfab_Scene",
+      "nodes": [
+        0
+      ]
+    }
+  ],
+  "textures": [
+    {
+      "sampler": 0,
+      "source": 0
+    },
+    {
+      "sampler": 0,
+      "source": 1
+    },
+    {
+      "sampler": 0,
+      "source": 2
+    }
+  ]
+}
