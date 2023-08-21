@@ -1,0 +1,11 @@
+Model Information:
+* title:	Niva Gameready 3D Model
+* source:	https://sketchfab.com/3d-models/niva-gameready-3d-model-1fd49a48722d4b57bc0ecd3ac6d2947f
+* author:	FERtyn_12 (https://sketchfab.com/olezhka.ovchinnikov.1982)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Niva Gameready 3D Model" (https://sketchfab.com/3d-models/niva-gameready-3d-model-1fd49a48722d4b57bc0ecd3ac6d2947f) by FERtyn_12 (https://sketchfab.com/olezhka.ovchinnikov.1982) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
