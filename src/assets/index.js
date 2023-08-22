@@ -1,29 +1,29 @@
-const Jason2 = import("./Jason2.png");
-const arrow = import("./up-arrow.png");
-const backend = import("./backend.png");
-const android = import("./tech/android.png");
-const alumniSystem = import("./alumniSystem.jpg");
-const branchVisit = import("./branchVisit.png");
-const mobile = import("./mobile.png");
-const web = import("./web.png");
-const github = import("./github.png");
-const menu = import("./menu.svg");
-const close = import("./close.svg");
-const eportfolio = import("./eportfolio.png");
+import Jason2 from "./Jason2.png";
+import arrow from "./up-arrow.png";
+import backend from "./backend.png";
+import android from "./tech/android.png";
+import alumniSystem from "./alumniSystem.jpg";
+import branchVisit from "./branchVisit.png";
+import mobile from "./mobile.png";
+import web from "./web.png";
+import github from "./github.png";
+import menu from "./menu.svg";
+import close from "./close.svg";
+import eportfolio from "./eportfolio.png";
 
-const css = import("./tech/css.png");
-const figma = import("./tech/figma.png");
-const git = import("./tech/git.png");
-const html = import("./tech/html.png");
-const javascript = import("./tech/javascript.png");
-const mongodb = import("./tech/mongodb.png");
-const nodejs = import("./tech/nodejs.png");
-const reactjs = import("./tech/reactjs.png");
-const tailwind = import("./tech/tailwind.png");
-const typescript = import("./tech/typescript.png");
+import css from "./tech/css.png";
+import figma from "./tech/figma.png";
+import git from "./tech/git.png";
+import html from "./tech/html.png";
+import javascript from "./tech/javascript.png";
+import mongodb from "./tech/mongodb.png";
+import nodejs from "./tech/nodejs.png";
+import reactjs from "./tech/reactjs.png";
+import tailwind from "./tech/tailwind.png";
+import typescript from "./tech/typescript.png";
 
-const meta = import("./company/meta.png");
-const shopify = import("./company/shopify.png");
+import meta from "./company/meta.png";
+import shopify from "./company/shopify.png";
 
 export {
   Jason2,

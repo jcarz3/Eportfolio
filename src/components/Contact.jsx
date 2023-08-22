@@ -66,7 +66,7 @@ const Contact = () => {
 
   return (
     <div
-      className={`xl:mt-0 mt-[90px] flex xl:flex-row flex-col-reverse overflow-hidden relative`}
+      className={`xl:mt-0 mt-[50px] flex xl:flex-row flex-col-reverse overflow-hidden relative`}
     >
       <motion.div
         variants={slideIn("left", "tween", 0.2, 1)}
@@ -132,13 +132,13 @@ const Contact = () => {
 
       <motion.div
         variants={slideIn("right", "tween", 0.2, 1)}
-        className="xl:flex-1 xl:h-aut relative bg-blue-300"
+        className="xl:flex-1 xl:h-aut relative"
       >
-        <div className=" md:h-[400px] md:w-[400px] h-[220px] w-[180px] relative">
-          <div className="border-b-[6px] border-green-700 absolute md:h-[400px] md:w-[400px] h-[240px] w-[280px] bg-[#dddddd] xl:top-[200px] xl:left-[-55px] md:top-[120px] md:left-[80%] sm:top-[-10px] sm:left-[70%] top-[2px] left-[40%] z-20">
+        <div className=" md:h-[400px] md:w-[400px] h-[220px] w-[150px] relative">
+          <div className="border-b-[6px] border-green-700 absolute md:h-[400px] md:w-[400px] h-[240px] w-[280px] bg-[#dddddd] xl:top-[200px] xl:left-[-55px] md:top-[120px] md:left-[80%] sm:top-[-10px] sm:left-[70%] top-[2px] left-[25%] z-20">
             {/* Contact me section */}
             <div className="relative flex justify-center items-center w-full h-full bg-[#dfdfdf]">
-              <div class="absolute xl:right-[-40px] xl:top-[80px] right-[20px] top-[10px] bg-transparent">
+              <div class="absolute xl:right-[-40px] xl:top-[80px] right-[20px] top-[25px] bg-transparent">
                 <span className="font-bold xl:text-[45px] sm:text-[40px] text-[25px] bg-transparent text-black relative z-[2]">
                   <span className="bg-[#bcd0b9] absolute h-10 w-[25%] top-[5%] left-[1%] z-[-1] rounded-full transform -skew-x-12"></span>
                   Contact Me
@@ -146,14 +146,14 @@ const Contact = () => {
               </div>
 
               {/* subtext */}
-              <div className="xl:px-10 p-2 xl:mt-16 mt-1 text-gray-900 bg-transparent">
-                <p className="bg-transparent text-[12px] xl:text-[18px] md:text-[18px]">
+              <div className="xl:px-10 p-[20px] xl:mt-[25%] mt-[30px] text-gray-900 bg-transparent">
+                <p className="bg-transparent text-[12.5px] xl:text-[18px] md:text-[18px]">
                   I will read Email. Send me any message you want. Ill get back
                   to you.
                 </p>
                 <br />
-                <p className="bg-transparent text-[12px] xl:text-[18px] md:text-[18px]">
-                  I need you Name and Email address
+                <p className="bg-transparent text-[12.5px] xl:text-[18px] md:text-[18px]">
+                  I need your Name and Email address.
                 </p>
               </div>
             </div>
