@@ -34,7 +34,7 @@ const Hero = () => {
           />
         </h2>
         <p className="text-[20px] md:mt-[20px] sm:mt-4">
-          <span className="bg-gradient-to-r from-[#a1e7a8] to-[#d7f6e1] font-bold">
+          <span className="bg-gradient-to-r from-[#a1e7a8] to-[#d7f6e1] font-bold mr-1">
             Frontend Developer
           </span>
           with knowledge in React, typescript and xstate.

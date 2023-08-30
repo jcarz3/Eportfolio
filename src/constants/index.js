@@ -95,7 +95,7 @@ const projects = [
       },
     ],
     image: alumniSystem,
-    source_code_link: "https://github.com/",
+    source_code_link: "https://github.com/Jcarz35/CTUAlumni",
   },
   {
     name: "Branch Visit App",
@@ -137,7 +137,7 @@ const projects = [
       },
     ],
     image: eportfolio,
-    source_code_link: "https://github.com/",
+    source_code_link: "https://github.com/jcarz3/Eportfolio",
   },
 ];
 

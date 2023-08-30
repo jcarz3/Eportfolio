@@ -1,9 +1,9 @@
 import React, { useRef, useState } from "react";
+import "../index.css";
 import { motion } from "framer-motion";
 import emailjs from "@emailjs/browser";
 
 import { styles } from "../styles";
-import { EarthCanvas } from "./canvas";
 import { SectionWrapper } from "../hoc";
 import { slideIn } from "../utils/motion";
 
@@ -17,6 +17,9 @@ const Contact = () => {
 
   const [loading, setLoading] = useState(false);
 
+  //template_tewtk7o
+  //
+  // qruwcLWbL7VPJVmgp
   const handleChange = (e) => {
     const { target } = e;
     const { name, value } = target;
@@ -33,21 +36,21 @@ const Contact = () => {
 
     emailjs
       .send(
-        import.meta.env.VITE_APP_EMAILJS_SERVICE_ID,
-        import.meta.env.VITE_APP_EMAILJS_TEMPLATE_ID,
+        "service_s0n6uj3",
+        "template_tewtk7o",
         {
           from_name: form.name,
-          to_name: "JavaScript Mastery",
+          to_name: "Jason Carzano",
           from_email: form.email,
           to_email: "json.carzano@gmail.com",
           message: form.message,
         },
-        import.meta.env.VITE_APP_EMAILJS_PUBLIC_KEY
+        "qruwcLWbL7VPJVmgp"
       )
       .then(
         () => {
           setLoading(false);
-          alert("Thank you. I will get back to you as soon as possible.");
+          alert("Message Sent");
 
           setForm({
             name: "",
@@ -135,7 +138,9 @@ const Contact = () => {
         className="xl:flex-1 xl:h-aut relative"
       >
         <div className=" md:h-[400px] md:w-[400px] h-[220px] w-[150px] relative">
-          <div className="border-b-[6px] border-green-700 absolute md:h-[400px] md:w-[400px] h-[240px] w-[280px] bg-[#dddddd] xl:top-[200px] xl:left-[-55px] md:top-[120px] md:left-[80%] sm:top-[-10px] sm:left-[70%] top-[2px] left-[25%] z-20">
+          <div
+            className={`border-b-[6px] border-green-700 absolute md:h-[400px] md:w-[400px] h-[240px] w-[280px] bg-[#dddddd] xl:top-[200px] xl:left-[-55px] md:top-[120px] md:left-[80%] sm:top-[-10px] sm:left-[70%] top-[2px] left-[25%] z-20`}
+          >
             {/* Contact me section */}
             <div className="relative flex justify-center items-center w-full h-full bg-[#dfdfdf]">
               <div class="absolute xl:right-[-40px] xl:top-[80px] right-[20px] top-[25px] bg-transparent">
